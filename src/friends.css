@@ -1,0 +1,14 @@
+.box {
+    border: 2px solid lightgreen;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* // csss addd by friend file*/
+.box3 {
+    border: 5px solid lightblue;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 20px;
+}
